@@ -1,4 +1,10 @@
 body{
-    text-align: center;
+    text-align: left;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+#cabecera{
+    font-style: italic;
+    text-align: center;
+    font-size: bold;
 }
